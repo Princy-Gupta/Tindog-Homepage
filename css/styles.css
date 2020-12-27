@@ -1,0 +1,185 @@
+
+
+
+#title
+{
+  background-color: #ff4c68;
+
+
+}
+#features
+{
+  padding: 7% 15%;
+background-color: white;
+position: relative;
+
+}
+.div1
+{
+  padding: 10%;
+}
+h1
+{
+  font-family: 'Secular One', sans-serif;
+  font-size: 4.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+  color: white;
+  padding-top: 2%;
+
+}
+h2
+{
+    font-family: 'Secular One', sans-serif;
+      font-size: 3.5rem;
+      line-height: 1.5;
+        font-weight: bold;
+        margin: auto;
+}
+h3
+{
+  font-size: 1.5rem;
+  font-family: 'Secular One', sans-serif;
+  font-weight:bold;
+}
+.row1
+{
+  text-align: center;
+  padding: 0%;
+
+
+
+}
+.container-fluid
+{
+  padding: 1.5% 15% !important;
+
+
+}
+.downloadbtn
+{
+  margin: 5% 3% 5% 0;
+
+}
+.icon
+{
+font-size: 40px;
+display:block;
+margin: auto;
+color: #ef8172;
+}
+.icon:hover
+{
+  color: #ff4c68;
+}
+.info
+{
+  color:#8f8f8f;
+}
+.navbar
+{
+  padding:0 0 2rem;
+
+}
+.navbar-brand
+{
+  font-family: "Montserrat-Black";
+  font-weight: bold;
+  color: white;
+  font-size: 3rem;
+}
+.nav-item
+{
+  padding:0 18px;
+}
+.nav-link
+{
+  font-family: "Ubuntu";
+    font-size: 1.2rem;
+}
+.tstim
+{
+  border-radius: 100%;
+  margin: 30px 20px 20px 20px;
+  width: 150px;
+}
+#testimonials{
+
+  background-color: #ef8172;
+  color: white;
+}
+.carousel-item
+{
+    padding:7% 17%;
+}
+#phone
+{
+  transform: rotate(25deg);
+  width: 60%;
+position: absolute;
+right: 10%;
+
+
+}
+#press
+{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+#pricing{
+    padding:7% 10%;
+    text-align: center;
+}
+#cta
+{
+  background-color: #ff4c68;
+    font-family: 'Secular One', sans-serif;
+      font-weight: bold;
+
+        color: white;
+        text-align: center;
+        padding:70px 30px;
+}
+#foot
+{
+  font-size: 3rem;
+  padding: 30px 0px 20px;;
+}
+#footer
+{
+  padding: 30px;
+  text-align: center;
+}
+.icon2
+{
+  padding-bottom: 15px;
+  font-size: 30px;
+  margin: 0% 0.5% 0% ;
+}
+.pcol
+{
+  padding: 3% 2%;
+}
+.pressimg
+{
+  width: 15%;
+  margin: 0px 20px 50px;
+}
+#pf
+{
+  color: grey;
+}
+@media (max-width:1028px)
+ {
+  #phone
+  {
+    position: static;
+    transform: rotate(0);
+  }
+  #title
+  {
+    text-align: center;
+  }
+
+}
